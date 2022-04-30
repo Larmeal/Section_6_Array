@@ -1,7 +1,7 @@
 # merge number between of [0, 3, 4, 31] and [4, 6, 30]
 # sort in ascending order
 
-array_1 = [0, 3, 4, 31]
+array_1 = [0, 3, 4, 31, 8]
 array_2 = [-1, 4, 6, 30, 2]
 
 def search_number(set_3):
